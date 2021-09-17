@@ -19,7 +19,13 @@ file:///Users/gabrielcrosetti/Desktop/code-refactor-main/Develop/index.html
 
 ## Solutions
 
-Fixed functionality of "Search Optimization Link" in order to make link redirect to proper section. Made HTML file adhere to accessibility standards by replacing exisisting tags with semantic HTML elements. Improved CSS efficiency by removing unnecessary classes and creating consolidated classes with the same attributes and corresponding HTML elements, while making sure the page maintained same style.
+1) Fixed functionality of "Search Optimization Link" in order to make link redirect to proper section. 
+
+
+2) Made HTML file adhere to accessibility standards by replacing exisisting tags with semantic HTML elements. 
+
+
+3) Improved CSS efficiency by removing unnecessary classes and creating consolidated classes with the same attributes and corresponding HTML elements, while making sure the page maintained same style.
 
 
 
