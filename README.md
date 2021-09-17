@@ -11,11 +11,10 @@ Making a Marketing company's website have increased functionality and accessibil
 HTML, CSS, Git, GitHub
 
 
-## Website Picture
+## Website 
 
-./assets/images/myscreenshot.jpg
+file:///Users/gabrielcrosetti/Desktop/code-refactor-main/Develop/index.html
 
-./assets/images/myscreenshot2.jpg
 
 
 ## Solutions
