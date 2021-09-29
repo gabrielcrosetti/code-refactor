@@ -11,9 +11,16 @@ Making a Marketing company's website have increased functionality and accessibil
 HTML, CSS, Git, GitHub
 
 
-## Website 
+## Site Pictures
 
-file:///Users/gabrielcrosetti/Desktop/code-refactor-main/Develop/index.html
+<img width="1440" alt="Screen Shot 2021-09-29 at 2 03 07 AM" src="https://user-images.githubusercontent.com/89226867/135212331-5c9b1b57-cd59-4681-ab0d-15e71e2ef6fc.png">
+
+<img width="1440" alt="Screen Shot 2021-09-29 at 2 03 21 AM" src="https://user-images.githubusercontent.com/89226867/135212349-e92cfc6b-cf45-4b64-a7ae-3c201f03528f.png">
+
+## Code Snippet
+
+
+<img width="700" alt="Screen Shot 2021-09-29 at 2 04 32 AM" src="https://user-images.githubusercontent.com/89226867/135212377-cdd61b3c-486d-4eda-b8d5-ea0788fd9614.png">
 
 
 
